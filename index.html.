@@ -4,10 +4,11 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Cheese System Sanctuary</title>
+    <link rel="manifest" href="manifest.json">
     <style>
         body { font-family: 'Georgia', serif; background: #e3f2fd; color: #2c3e50; text-align: center; padding: 20px; }
         .card { background: white; border-radius: 15px; padding: 20px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); margin-bottom: 20px; border-top: 5px solid #d4af37; }
-        button { background: #d4af37; color: white; border: none; padding: 10px 20px; border-radius: 20px; margin: 5px; cursor: pointer; }
+        button { background: #d4af37; color: white; border: none; padding: 12px 25px; border-radius: 20px; margin: 10px; font-size: 1rem; cursor: pointer; }
     </style>
 </head>
 <body>
